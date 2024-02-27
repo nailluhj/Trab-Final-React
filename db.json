@@ -1,0 +1,168 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nome": "teste",
+        "email": "teste@gmail.com",
+        "senha": "teste"
+      },
+      {
+        "nome": "Filipe",
+        "email": "filipe@gmail.com",
+        "senha": "filipe@1",
+        "id": 2
+      },
+      {
+        "nome": "Cleiver",
+        "email": "cleiver@gmail.com",
+        "senha": "cleiver",
+        "id": 3
+      },
+      {
+        "nome": "Eduardo",
+        "email": "eduardo@gmail.com",
+        "senha": "eduardo@1",
+        "id": 4
+      },
+      {
+        "nome": "Jhullian",
+        "email": "jhullian@gmail.com",
+        "senha": "jhullian@1",
+        "id": 5
+      }
+    ],
+    "produtos": [
+      {
+        "nome": "Mortal Kombat",
+        "preco": 39.9,
+        "descricao": "Mortal Kombat 11 é um jogo de luta brutal com visão lateral em terceira pessoa, que faz parte de uma das maiores franquias no mundo dos games, sendo uma inspiração para outros jogos do mesmo gênero. O título é famoso por conter efeitos sanguinários, cenas com ossos se partindo, membros sendo decepados e órgãos vitais dilacerados como consequência da incrível variedade de ataques especiais presentes.",
+        "imgurl": "/imgs/mortal-kombat.jpg",
+        "favoritos": [
+          3,
+          1,
+          2
+        ],
+        "quantidade": 1,
+        "id": 1
+      },
+      {
+        "nome": "Street Fighter",
+        "preco": 39.9,
+        "descricao": "Venha ajudar Ryu a enfrentar os mais poderosos guerreiros, que querem dominar o planeta com seus punhos e poderes. O estilo de jogo é bem parecido com outros jogos da série Street Fighter, onde o jogador vai ter que vencer vários oponentes antes de chegar ao terrível M. Bison. Street Fighter é um jogo que mistura ação, estratégia e diversão, com gráficos impressionantes e jogabilidade fluida. Você vai se apaixonar por esse jogo, que é um clássico dos videogames.",
+        "imgurl": "/imgs/street-fighter.jpg",
+        "favoritos": [
+          4
+        ],
+        "quantidade": 5,
+        "id": 2
+      },
+      {
+        "nome": "Zelda",
+        "preco": 39.9,
+        "descricao": "The Legend of Zelda: Ocarina of Time 3D é uma versão revigorada do clássico título lançado originalmente em 1998 para o Nintendo 64. O quinto jogo da franquia de The Legend of Zelda, foi o primeiro jogo da série a portar gráficos 3D e agora esta versão é o primeiro da linha a oferecer suporte a visuais com 3D estereoscópicos. O jogo original é considerado como um dos melhores títulos da história do video game e vendeu mais de 8,5 milhões de cópias",
+        "imgurl": "/imgs/zelda.jpg",
+        "favoritos": [],
+        "quantidade": 3,
+        "id": 3
+      },
+      {
+        "nome": "Super Mario",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "Super Mario 3D World venha ajudar Mario e seus amigos a resgatar criaturinhas parecidas com fadas chamadas de Sprixies do malvado Bowser, que invadiu o reino deles para capturá los. O estilo de jogo é bem parecido com outros jogos da série Mario, onde o jogador vai ter que passar por diversos níveis antes de chegar ao terrível Bowser.",
+        "imgurl": "/imgs/super-mario.jpg",
+        "favoritos": [],
+        "id": 4
+      },
+      {
+        "id": 5,
+        "nome": "Sonic",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "Sonic the Hedgehog é uma franquia de mídia criada e administrada por Yuji Naka e Naoto Oshima da equipe Sonic Team, da Sega. O primeiro jogo da série Sonic, lançado em 1991, foi concebido pela divisão da Sega, Sonic Team após um pedido para um novo mascote.",
+        "imgurl": "/imgs/sonic.jpg",
+        "favoritos": []
+      },
+      {
+        "id": 6,
+        "nome": "Top Gear",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "O primeiro de todos e também o mais popular. Foi lançado apenas no Super Nintendo e é publicado pela Kemco, que foi a dona da marca em todos os seus lançamentos. O título é de corrida com gráficos muito bem animados em 2D e uma trilha sonora com músicas inesquecíveis compostas por Barry Leitch. Era possível escolher o nome do seu piloto e um entre quatro carros para correr, variando de marca e cores.",
+        "imgurl": "/imgs/top-gear.jpg",
+        "favoritos": []
+      },
+      {
+        "nome": "Donkey Kong",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "Prepare-se para viver incríveis aventuras em Donkey Kong Country Returns! O estilo clássico está de volta, com belíssimos gráficos e a jogabilidade tão adorada pelos fãs. Sendo um jogo sidescroller, a aventura é garantida com inúmeros desafios e inimigos incríveis, sem nunca perder o brilho e mantendo-se fiel ao clássico Donkey Kong Country. Um verdadeiro tesouro para os fãs!",
+        "imgurl": "/imgs/kong.jpg",
+        "favoritos": [
+          2
+        ],
+        "id": 7
+      },
+      {
+        "nome": "Crash Bandicoot",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "O jogo segue as aventuras de Crash Bandicoot, um marsupial geneticamente modificado que tenta salvar sua amiga Tawna e impedir os planos maléficos do vilão Dr. Neo Cortex. O jogo se passa em uma série de ilhas tropicais, cada uma com seu próprio tema e desafios únicos. O jogador controla Crash enquanto ele atravessa diversos níveis, enfrentando inimigos, coletando frutas Wumpa, que são a moeda do jogo, e tentando evitar armadilhas e obstáculos. O objetivo final de cada nível é alcançar a bandeira de fim de estágio.",
+        "imgurl": "/imgs/crash.png",
+        "favoritos": [],
+        "id": 8
+      },
+      {
+        "id": 9,
+        "nome": "Tekken 3",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "Tekken 3 é o terceiro jogo da série de jogos eletrônicos Tekken. O título foi lançado nos Arcades em março de 1997, e para PlayStation em 1998. A versão original de Arcade foi lançada em 2005 para PlayStation 2 como parte do modo Arcade History do Tekken 5",
+        "imgurl": "/imgs/tekken.png",
+        "favoritos": []
+      },
+      {
+        "nome": "Max Payne",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "O primeiro episódio do game de ação da Remedy abusava de saltos em câmera lenta e muito drama para conta a história do personagem, que teve sua família assassinada e busca vingança pelas ruas de Nova York. Mesmo com muita idade, o jogo ainda é muito divertido, graças às suas cenas repletas de ação e tiroteios, e deve agradar os fãs do gênero, além daqueles que gostaram de Max Payne 3.",
+        "imgurl": "/imgs/max-payne.jpg",
+        "favoritos": [],
+        "id": 10
+      },
+      {
+        "id": 11,
+        "nome": "Halo",
+        "preco": 39.9,
+        "quantidade": 5,
+        "descricao": "Halo: Combat Evolved é um jogo eletrônico tiro em primeira pessoa e ficção científica militar desenvolvido pela Bungie e publicado pela Microsoft Game Studios. O primeiro jogo da franquia Halo, foi lançado em 15 de novembro de 2001 como um título de lançamento para o console Xbox, é considerado o 'killer app' da plataforma. A Microsoft lançou versões do jogo para Windows e Mac OS X em 2003. O jogo foi posteriormente lançado como um Xbox Originals para download no Xbox 360.",
+        "imgurl": "/imgs/Halo.jpg",
+        "favoritos": []
+      },
+      {
+        "id": 12,
+        "nome": "Superstar Soccer",
+        "preco": 39.9,
+        "quantidade": 2,
+        "descricao": "International Superstar Soccer é uma série de videogames de futebol produzida pela Konami. Devido aos seus gráficos e sua jogabilidade de alta qualidade, essa franquia foi bastante popular na Europa e América Latina durante os anos 90. A equipe responsável pelo desenvolvimento dos jogos da série é a Major A.",
+        "imgurl": "/imgs/superstar-soccer.jpg",
+        "favoritos": []
+      }
+    ],
+    "pedidos": [
+      {
+        "valorTotal": 79.8,
+        "idUser": 2,
+        "itens": [
+          {
+            "idProduto": 1,
+            "imgurl": "/imgs/mortal-kombat.jpg",
+            "nome": "Mortal Kombat",
+            "valor": 79.8,
+            "quantidade": 2
+          }
+        ],
+        "id": 1
+      }
+    ]
+  }
